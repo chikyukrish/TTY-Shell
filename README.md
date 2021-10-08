@@ -12,9 +12,9 @@ Here are some commands which will allow you to spawn a tty shell. Obviously some
 - `perl: exec "/bin/sh";`
 - `ruby: exec "/bin/sh"`
 ## (From within IRB)
-- exec "/bin/sh"
+- `exec "/bin/sh"`
 ## (From within vi)
-- :!bash
-- :set shell=/bin/bash:shell
+- `:!bash`
+- `:set shell=/bin/bash:shell`
 ## (From within nmap)
-- !sh
+- `!sh`
