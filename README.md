@@ -1,4 +1,6 @@
 # TTY-Shell
+![GitHub Repo stars](https://img.shields.io/github/stars/chikyukrish/TTY-Shell)
+
 Here are some commands which will allow you to spawn a tty shell. Obviously some of this will depend on the system environment and installed packages.
 # match the target system
 ## Shell Spawning
