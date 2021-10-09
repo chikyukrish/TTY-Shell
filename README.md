@@ -21,3 +21,5 @@ Here are some commands which will allow you to spawn a tty shell. Obviously some
 # Example
 Listening using `nc -nvlp <PORT>` and we get back connect
 <img src="https://github.com/chikyukrish/TTY-Shell/blob/main/ss1.png" widht="250"/>
+and we can search for python in the system using `which python` or `which python3`
+<img src="https://github.com/chikyukrish/TTY-Shell/blob/main/ss2.png" widht="250"/>
